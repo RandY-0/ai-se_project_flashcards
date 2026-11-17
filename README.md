@@ -19,3 +19,7 @@ each of which can be viewed in a carousel.
 - CSS: Modular styling structured using the Block Element Modifier (BEM) methodology and custom color modifiers.
 
 - JavaScript: DOM manipulation, and hash-based routing.
+
+## Deployed Site
+
+Check out [this site](https://randy-0.github.io/ai-se_project_flashcards/) on GitHub Pages.
